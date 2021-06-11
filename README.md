@@ -28,4 +28,4 @@ python predict.py
 
 ### TODO
 
-训练代码稍后添加
+增加训练集
