@@ -23,6 +23,7 @@ python predict.py
 ### 开始训练
 
 下载数据集解压后执行 python dataset_split.py
+
 分好后执行训练程序 python train.py
 
 ### TODO
