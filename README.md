@@ -1,5 +1,9 @@
 # 车型识别
 
+![demo1](https://github.com/erquren/vehicle_recognition/blob/main/car_img/demo1.png?raw=true)
+![demo2](https://github.com/erquren/vehicle_recognition/blob/main/car_img/demo2.png?raw=true)
+![demo3](https://github.com/erquren/vehicle_recognition/blob/main/car_img/demo3.png?raw=true)
+
 ### 简介
 
 使用pytorch做的车型分类模型，采用resnet网络，可以支持1777个类别
@@ -19,6 +23,8 @@ pip install -r requirements.txt
 ### 数据预测
 
 python predict.py
+
+
 
 ### 开始训练
 
