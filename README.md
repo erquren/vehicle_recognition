@@ -8,7 +8,7 @@
 
 使用pytorch做的车型分类模型，采用resnet网络，可以支持1777个类别
 
-数据集使用的是hyperVID 下载地址为 链接: https://pan.baidu.com/s/1vvV2H5Jpewgba_VFsWvDcA  密码: vuo4
+数据集使用的是hyperVID 下载地址为 链接: https://pan.baidu.com/s/1vvV2H5Jpewgba_VFsWvDcA   密码: vuo4
 
 
 resnet_car.pth 为检测模型
